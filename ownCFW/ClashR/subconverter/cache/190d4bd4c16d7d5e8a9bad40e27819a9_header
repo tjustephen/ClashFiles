@@ -1,0 +1,26 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Thu, 16 Apr 2020 00:39:14 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=da4d202b4c1a420b6ab4a207623b615891586997554; expires=Sat, 16-May-20 00:39:14 GMT; path=/; domain=.lm389.xyz; HttpOnly; SameSite=Lax
+Location: /500
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 5849d91b8dc0ed2f-SJC
+cf-request-id: 02220605320000ed2f7505c200000001
+
+HTTP/1.1 200 OK
+Date: Thu, 16 Apr 2020 00:39:15 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=dc807ff26db82bd6559a3c31754d091c71586997555; expires=Sat, 16-May-20 00:39:15 GMT; path=/; domain=.lm389.xyz; HttpOnly; SameSite=Lax
+Vary: Accept-Encoding
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 5849d921aa4ced2f-SJC
+cf-request-id: 02220609070000ed2f75091200000001
+

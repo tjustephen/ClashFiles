@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Thu, 16 Apr 2020 08:10:46 GMT
+Content-Type: application/octet-stream; charset=utf-8
+Content-Length: 14820
+Connection: keep-alive
+Set-Cookie: __cfduid=d2df583556f06ccfbe3af83268d04ac541587024646; expires=Sat, 16-May-20 08:10:46 GMT; path=/; domain=.sswow.xyz; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: PHP/7.2.18
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Disposition: attachment; filename=lYieQTFxSAwaTl6U.txt
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 584c6e88bea45156-SJC
+cf-request-id: 0223a3696e000051564f8c2200000001
+
