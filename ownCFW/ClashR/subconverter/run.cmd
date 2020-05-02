@@ -1,1 +1,0 @@
-start subconverter.exe 2>logs.log

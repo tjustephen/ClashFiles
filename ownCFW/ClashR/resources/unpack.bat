@@ -1,1 +1,0 @@
-asar extract app.asar  ./tmp
