@@ -2,7 +2,7 @@ common:
   api_mode: false
   api_access_token: password
   default_url: []
-  insert_url: []
+  insert_url: ["tg://http?server=127.0.0.1&port=16375&remarks=网易云解锁(本地)|ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21AbXVzaWMuZGVzcGVyYWRvai5jb206MzAwMDE=#%E7%BD%91%E6%98%93%E4%BA%91%E8%A7%A3%E9%94%81(%E5%A6%82%E9%A3%8E)|tg://http?server=taron.top&port=200&remarks=网易云解锁(Aiden)|tg://http?server=unblock.xmshuju.xyz&port=1024&remarks=网易云解锁(星梦)"]
   exclude_remarks: ["(到期|剩余流量|时间|官网|产品|测试)"]
   include_remarks: []
   clash_rule_base: base/all_base.tpl
