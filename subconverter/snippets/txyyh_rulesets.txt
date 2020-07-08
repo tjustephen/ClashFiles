@@ -1,8 +1,8 @@
-🎵 网易云解锁,rules/ACL4SSR/Clash/Ruleset/NetEaseMusic.list
 🎯 全球直连,rules/ACL4SSR/Clash/LocalAreaNetwork.list
 🛑 全球拦截,rules/ACL4SSR/Clash/BanAD.list
 🍃 应用净化,rules/ACL4SSR/Clash/BanProgramAD.list
 🎯 全球直连,rules/ACL4SSR/Clash/GoogleCN.list
+🎵 网易云解锁,rules/ACL4SSR/Clash/Ruleset/NetEaseMusic.list
 Ⓜ️ 微软服务,rules/ACL4SSR/Clash/Microsoft.list
 🍎 苹果服务,rules/ACL4SSR/Clash/Apple.list
 🌍 国外媒体,rules/ACL4SSR/Clash/ProxyMedia.list
