@@ -7,7 +7,7 @@
 🍎 苹果服务,rules/ACL4SSR/Clash/Apple.list
 🌍 国外媒体,rules/ACL4SSR/Clash/ProxyMedia.list
 📲 电报信息,rules/ACL4SSR/Clash/Telegram.list
-🚀 节点选择,rules/ACL4SSR/Clash/ProxyLite.list
+🔰 节点选择,rules/ACL4SSR/Clash/ProxyLite.list
 🎯 全球直连,rules/ACL4SSR/Clash/ChinaDomain.list
 🎯 全球直连,rules/ACL4SSR/Clash/ChinaCompanyIp.list
 🎯 全球直连,[]GEOIP,CN
