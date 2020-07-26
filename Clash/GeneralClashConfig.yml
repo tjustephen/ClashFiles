@@ -196,7 +196,7 @@ cfw-conn-break-strategy:
     #args:
       #- "-cfw" # 运行参数1
       #- "-f" # 运行参数2
-      #- "pref-acl4ssr.yml" # 运行参数3
+      #- "pref-txyyh.yml" # 运行参数3
     #options:
       #cwd: subconverter # 子进程工作目录
       #detached: true # 子进程独立于其父进程运行
