@@ -12,7 +12,7 @@
 ## 个人整理 Clash 项目地址
 
 #### 一、Clash 项目地址（只放流行的，推荐顺序自上而下）
-R版相比原版增加了SSR支持，同时也更不稳定
+Clash 官方已支持 SSR （不支持加密方式 chacha20），此处 ClashR 仅作备用。
 
 
 1. 内核
@@ -42,13 +42,6 @@ https://github.com/Kr328/ClashForAndroid
 ClashR for Android(BROBRID)：
 https://github.com/BROBRID/ClashForAndroid
 通常只跟进较稳定版本
-
-ClashR for Android(@MADAOYu)：
-只在ClashR群发布，特点紧随上游更新（基本几分钟），需要的@我
-
-ClashR for Android(idaima)：
-https://github.com/idaima/ClashForAndroid
-不了解，不作评价
 
 4. MacOS 客户端
 
