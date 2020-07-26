@@ -113,18 +113,18 @@ dns:
 # 代理组
 # 下面这3个不要引到订阅里去 要不会出错
 # Will be ignored after profile selection
-proxies:
-  - name: Shadowsocks
-    type: socks5
-    server: 127.0.0.1
-    port: 1080
-proxy-groups:
-  - name: Proxy
-    type: select
-    proxies:
-      - Shadowsocks
-rules:
-  - 'MATCH,DIRECT'
+#proxies:
+#  - name: Shadowsocks
+#    type: socks5
+#    server: 127.0.0.1
+#    port: 1080
+#proxy-groups:
+#  - name: Proxy
+#    type: select
+#    proxies:
+#      - Shadowsocks
+#rules:
+#  - 'MATCH,DIRECT'
 
 # 混合配置（mixin）
 # 支持向所有配置文件中注入公共属性设置
