@@ -8,7 +8,7 @@
 2. GeneralClashConfig.yml 作为 Clash 配置模版由 ACL4SSR_Online_Full.ini 调用。
 3. config.yaml 为自用 Clash for Windows 配置文件，由 ACL4SSR版修改而来：主要添加（修改）了 DNS 配置，修改了几个值，添加网易云解锁子进程。
 4. pref.yml为自用 subconverter 的配置文件（使用方法：直接放进 subconverter.exe 所在目录即可，默认调用优先级高于pref.ini），主要应用了本项目 ACL4SSR_Full.ini 中的 ruleset 与节点分组，启用了 catch、异步获取， 并添加了网易云节点分组，添加了本地解锁（端口16375）以及几个自己收集的公共节点（已在节点名中备注来源）。
-
+5. UnblockNeteaseMusic.yml 为纯网易云解锁配置文件，只带有网易云解锁功能。
 ## 个人整理 Clash 项目地址
 
 #### 一、Clash 项目地址（只放流行的，推荐顺序自上而下）
