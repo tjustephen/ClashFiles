@@ -23,12 +23,14 @@ dns:
      #- 114.114.114.114 # 114DNS
       - https://dns.alidns.com/dns-query # 阿里 DoH DNS
       - https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
+      - https://dns.nextdns.io # NextDNS DOH
      #- https://doh.360.cn/dns-query # 360 DoH DNS
   fallback:
      #- 8.8.8.8 # Google DNS
      #- 1.1.1.1 # Cloudflare DNS
       - https://dns.alidns.com/dns-query # 阿里 DoH DNS
       - https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
+      - https://dns.nextdns.io # NextDNS DOH
       - https://cloudflare-dns.com/dns-query # Cloudflare DoH DNS
       - https://dns.google/dns-query # Google DoH DNS
   fallback-filter:
