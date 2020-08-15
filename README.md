@@ -31,6 +31,10 @@ https://github.com/frainzy1477/clashrdev
 Clash for Windows：
 https://github.com/Fndroid/clash_for_windows_pkg
 
+PS:两个 Clash For Windows 汉化版，风格各异，请自行挑选
+1. https://github.com/HoldOnBro/LocalizeCFW
+2. https://github.com/BoyceLig/Clash_Chinese_Patch
+
 ClashWeb（内存占用超少）：
 https://github.com/lzdnico/ClashWeb
 
