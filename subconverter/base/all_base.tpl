@@ -1,6 +1,5 @@
 {% if request.target == "clash" or request.target == "clashr" %}
-port: 7890
-socks-port: 7891
+mixed-port: 7890
 allow-lan: {{ global.clash.allow_lan }}
 mode: Rule
 log-level: {{ global.clash.log_level }}
