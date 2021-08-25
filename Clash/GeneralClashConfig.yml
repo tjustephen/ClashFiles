@@ -23,7 +23,7 @@ allow-lan: false
 # bind-address: "*"
 
 # 规则模式：rule（规则） / global（全局代理）/ direct（全局直连）/ script (脚本)
-# mode: rule
+mode: rule
 
 # 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
 # 5 个级别：silent / error / warning / info / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
@@ -78,12 +78,14 @@ dns:
      #- 114.114.114.114 # 114DNS
       - https://dns.alidns.com/dns-query # 阿里 DoH DNS
       - https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
+      - https://dns.nextdns.io # NextDNS DOH
      #- https://doh.360.cn/dns-query # 360 DoH DNS
   fallback:
      #- 8.8.8.8 # Google DNS
      #- 1.1.1.1 # Cloudflare DNS
       - https://dns.alidns.com/dns-query # 阿里 DoH DNS
       - https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
+      - https://dns.nextdns.io # NextDNS DOH
       - https://cloudflare-dns.com/dns-query # Cloudflare DoH DNS
       - https://dns.google/dns-query # Google DoH DNS
   fallback-filter:
