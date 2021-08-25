@@ -5,7 +5,7 @@ common:
   enable_insert: true
   insert_url: ["tg://http?server=127.0.0.1&port=16375&remarks=网易云解锁(本地)|ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV92cmZuQG11c2ljLmRlc3BlcmFkb2ouY29tOjMwMDAx#%E7%BD%91%E6%98%93%E4%BA%91%E8%A7%A3%E9%94%81(%E5%A6%82%E9%A3%8E)|tg://http?server=taron.top&port=200&remarks=网易云解锁(Aiden)|tg://http?server=unblock.xmshuju.xyz&port=1024&remarks=网易云解锁(星梦)"]
   prepend_insert_url: true
-  exclude_remarks: ["(到期|过期|剩余|时间|官网|产品|游戏)"]
+  exclude_remarks: ["(到期|过期|剩余|时间|官网|产品|游戏|地址)"]
   include_remarks: []
   enable_filter: false
   filter_script: ""
