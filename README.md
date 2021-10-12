@@ -2,8 +2,6 @@
 
 ## 本项目主要用于存放一些自用的 Clash 有关文件。
 
-## 本人由于高考，项目 Archive 至高考。
-
 #### 项目频道：https://t.me/ClashFiles_Channel 欢迎来关联群组玩，我会尽力帮助各位
 
 1. 两个 ACL4SSR ini 为本人由 [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) 的现有 ini 配置拼凑而来，使用了ACL4SSR(_Online).ini 的ruleset 与ACL4SSR_Online_Full.ini 的国家节点分组，并自行添加了各国节点、回国节点等新节点分组。
