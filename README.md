@@ -1,6 +1,6 @@
 # ClashFiles
 
-## 本项目主要用于存放一些自用的 Clash 有关文件。
+## 已针对 Clash v1.8.0 做出针对性适配，同时建议更低版本的 Clash 用户及时升级，以免出现间歇性断网
 
 #### 项目频道：https://t.me/ClashFiles_Channel 欢迎来关联群组玩，我会尽力帮助各位
 
