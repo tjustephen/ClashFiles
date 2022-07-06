@@ -25,14 +25,14 @@ dns:
     - https://dns.alidns.com/dns-query # 阿里 DoH DNS
     - https://doh.pub/dns-query #腾讯DNSPod DOH
     - https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
-    #- https://dns.nextdns.io # NextDNS DOH
+    #- https://dns.nextdns.io/dns-query # NextDNS DOH
     #- https://doh.360.cn/dns-query # 360 DoH DNS
   fallback:
     #- 8.8.8.8 # Google DNS
     #- 1.1.1.1 # Cloudflare DNS
     #- https://dns.alidns.com/dns-query # 阿里 DoH DNS
     #- https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
-    - https://dns.nextdns.io # NextDNS DOH
+    - https://dns.nextdns.io/dns-query # NextDNS DOH
     - https://cloudflare-dns.com/dns-query # Cloudflare DoH DNS
     - https://doh.opendns.com/dns-query # OpenDNS DoH
     - https://doh.dns.sb/dns-query # DNS.sb DoH
