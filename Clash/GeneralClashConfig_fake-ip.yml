@@ -79,7 +79,7 @@ dns:
     #- 114.114.114.114 # 114DNS
     - https://dns.alidns.com/dns-query # 阿里 DoH DNS
     - https://doh.pub/dns-query #腾讯DNSPod DOH
-    - https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
+    #- https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
     #- https://dns.nextdns.io/dns-query # NextDNS DOH
     #- https://doh.360.cn/dns-query # 360 DoH DNS
   fallback:
@@ -87,10 +87,12 @@ dns:
     #- 1.1.1.1 # Cloudflare DNS
     #- https://dns.alidns.com/dns-query # 阿里 DoH DNS
     #- https://dns.rubyfish.cn/dns-query # 红鱼 DoH DNS
-    - https://dns.nextdns.io/dns-query # NextDNS DOH
-    - https://cloudflare-dns.com/dns-query # Cloudflare DoH DNS
+    #- https://dns.nextdns.io/dns-query # NextDNS DOH
+    #- https://cloudflare-dns.com/dns-query # Cloudflare DoH DNS
+    - tls://b.iqiq.io:853              # iQDNS DoT
+    - https://i.233py.com/dns-query    # GEEKDNS China DoH
     - https://doh.opendns.com/dns-query # OpenDNS DoH
-    - https://doh.dns.sb/dns-query # DNS.sb DoH
+    #- https://doh.dns.sb/dns-query # DNS.sb DoH
     #- https://dns.google/dns-query # Google DoH DNS
   fallback-filter:
     geoip: true # 默认
