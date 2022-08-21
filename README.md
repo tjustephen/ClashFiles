@@ -2,7 +2,6 @@
 
 ## 已对 Clash v1.8.0 做出针对性适配，同时建议更低版本的 Clash 用户及时升级，以免出现间歇性断网
 
-#### 项目频道：https://t.me/ClashFiles_Channel 欢迎来关联群组玩，我会尽力帮助各位
 
 1. 两个 ACL4SSR ini 为本人由 [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) 的现有 ini 配置拼凑而来，使用了ACL4SSR(_Online).ini 的ruleset 与ACL4SSR_Online_Full.ini 的国家节点分组，并自行添加了各国节点、回国节点等新节点分组。
 2. GeneralClashConfig.yml 作为 Clash 配置模版由 ACL4SSR_Online_Full.ini 调用。
